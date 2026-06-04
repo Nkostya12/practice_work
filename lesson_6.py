@@ -1,5 +1,4 @@
 # Задание 1
-from PIL.ImImagePlugin import number
 
 count_number = int(input('Введите количество чисел '))
 print(f'Введите {count_number} чисел')
